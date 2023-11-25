@@ -1,0 +1,7 @@
+.Halo {
+    height: 60vh;
+    background-image: url(./tefa.jpg);
+    background-size: cover;
+    display: flex;
+    opacity: 50%;
+}
